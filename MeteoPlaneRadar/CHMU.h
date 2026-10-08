@@ -6,7 +6,7 @@
 #pragma once
 #include <Arduino.h>
 
-#define CHMU_INDEX_URL "https://opendata.chmi.cz/meteorology/weather/radar/composite/maxz/png/"
+#define CHMU_INDEX_URL "https://opendata.chmi.cz/meteorology/weather/radar/composite/maxz/png_masked/"
 
 // Geograficke ohraniceni CELEHO obrazku PNG (dle dokumentace CHMU).
 //   z.d. 11,267 - 20,770 ; z.s. 48,047 - 52,167
